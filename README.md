@@ -16,23 +16,26 @@
 * Tools & Technologies: Informatica PowerCenter, IDQ, MDM, IICS, Oracle, MS SQL Server, Salesforce, Unix
 
 ## Training:
-**HyperionDev – Software Engineering Bootcamp** 					                     [Dec ’22 – Mar ‘23] United Kingdom
+**HyperionDev – Software Engineering Bootcamp UK** 					       [Dec ’22 – Mar ‘23] 
 * Portfolio - [Profile](https://www.hyperiondev.com/portfolio/112904/)            
 * Programming: Python, HTML, CSS, OOPS, Version Control and Git, NLP, Django, SQL
 * Projects: [GitHub Projects](https://github.com/BhavyaP17)
-  -	Capstone Project I - Financial calculators: an investment calculator and a home loan repayment calculator using variables and control structures in python.
-  -	Capstone Project II – Creating a program for a small business that can help it to manage tasks assigned to each member of the team using files in python.
-  - Capstone Project III – Using lists, functions, and string handling in python to extend the functionality of Capstone project II.
-  -	Capstone Project IV – Create real-time project for inventory warehouse Using Object Oriented Programming (OOPS).
-  -	Capstone Project V – Creating Database Using python and SQL.
+  -	[Capstone Project I](https://github.com/BhavyaP17/Capstone-Project-I--Variables-and-Control-Structures) - Financial calculators: an investment calculator and a home loan repayment calculator using variables and control structures in python.
+  -	[Capstone Project II](https://github.com/BhavyaP17/Capstone-Project-II--Files) – Creating a program for a small business that can help it to manage tasks assigned to each member of the team using files in python.
+  - [Capstone Project III](https://github.com/BhavyaP17/Capstone-Project-III--Lists-Functions-and-String-Handling) – Using lists, functions, and string handling in python to extend the functionality of Capstone project II.
+  -	[Capstone Project IV](https://github.com/BhavyaP17/Capstone-Project-IV-OOP) – Create real-time project for inventory warehouse Using Object Oriented Programming (OOPS).
+  -	[Capstone Project V](https://github.com/BhavyaP17/Capstone-Project-V--Database) – Creating Database Using python and SQL.
 
-**Babington - Analysing Data Bootcamps UK (12 week)**     				[Nov ’22 – Feb ‘23]
-* The program involves 135 hours of study both via instructor lead training & self-directed learning, and develop a level 3 equivalent skill set across the below areas:
+**Babington - Analysing Data Skills Bootcamps UK**     				[Nov ’22 – Feb ‘23]
+* Trained to use Microsoft tools for data analysis and how to tell a story using data and develop communication, meeting, and presentation skills and developed a level 3 equivalent skill set across the below areas:
   - Data literacy 
   - Understanding data driven software; Excel, Power BI
-  - Analysing & interpreting data 
+  - Analysing & interpreting data using Analytical tools
+  - Data visualisation and non-graphical visualisation
   - Presenting Data 
+  - Introduction to big data
   - uCertify Excel 2019 Certification 
+  - Endpoint Assessment (EPA) on presentation and simulation.
 
 **Informatica PowerCenter Developer Training & Certification**				[Jun '22 - Aug '22]
 * Edureka Training – live online class training,						            United Kingdom
